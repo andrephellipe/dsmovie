@@ -6,7 +6,7 @@
  
 <p> Este app foi desenvolvido durante o evento: Semana do Spring React, ministrado através do professor Nélio Alves (Dev Superior). 
   Onde aprendemos a integrar o frontend ao backend num projeto realizado do zero, trabalhando com banco de dados relacionais de teste como o H2 e de produção como o Postgrees. 
-O projeto foi enviado ao Heroku para fazer a comunicação com o Netlify, e o app ficar hospedado na nuvem. Realizei algumas mudanças no layout do projeto, em relação ao que foi proposto.</p>
+O projeto foi enviado ao Heroku para fazer a comunicação com o Netlify, e o app ficar hospedado na nuvem. Realizei algumas mudanças no layout do projeto, em relação ao que foi proposto. App totalmente responsivo com mobile.</p>
 <p align="center">Segue o Link do app <a href="https://avaliefilmes.netlify.app/" target="_blank">https://avaliefilmes.netlify.app/</a></p>
 
 <h1 align="center">
