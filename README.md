@@ -14,7 +14,7 @@ O projeto foi enviado ao Heroku para fazer a comunicação com o Netlify, e o ap
  Sobre o projeto
 <br>
 </h1>
-<p> Trata-se de um app que realiza avaliações de filmes, onde posso dar estrelas em cada filme que já assisti, sendo 1 o valor mínimo para não recomendação do filme e 5 o valor máximo para recomendação do filme. Para realizar a avaliação deve-se cadastrar um email, onde cada email só poderá votar uma única vez por filme selecionado.</p>
+<p> Trata-se de um app que realiza avaliações de filmes, onde posso dar estrelas em cada filme que já assisti, sendo 1 o valor mínimo para não recomendação do filme e 5 o valor máximo para recomendação do filme. Para realizar a avaliação deve-se cadastrar um email válido.</p>
   
 <br>
   
