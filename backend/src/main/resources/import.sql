@@ -33,6 +33,25 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Interestelar', '
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Contato', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Duna', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Aquaman', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2cUsDz4TzFYHrKktT1bKHHQ7Cgm.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Doutor Estranho no Multiverso da Loucura', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Projeto Adam', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/ewUqXnwiRLhgmGhuksOdLgh49Ch.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'The Batman', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/xHrp2pq73oi9D64xigPjWW1wcz1.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Uncharted', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/aEGiJJP91HsKVTEPy1HhmN0wRLm.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Moonfall: Ameaça Lunar', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/9Ngw106BLlNJ4iVpRHlrDfaLpCV.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Os Caras Malvados', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/fEe5fe82qHzjO4yej0o79etqsWV.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Homem-Aranha: Sem Volta Para Casa', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Sonic 2: O Filme', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/egoyMDLqCxzjnSrWOz50uLlJWmD.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Cidade Perdida', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/A3bsT0m1um6tvcmlIGxBwx9eAxn.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Morbius', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/gG9fTyDL03fiKnOpf2tr01sncnt.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Encantado', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2hZd9enh7Fhyrw8Fw08T7EDtin9.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Red: Crescer é Uma Fera', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Animais Fantásticos: Os Segredos de Dumbledore', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, '365 Dias: Hoje', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/t9hNIUFcy0tYu55IPxjxRTTdZ6X.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Hotel Transilvânia: Transformonstrão', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/qBLEWvJNVsehJkEJqIigPsWyBse.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Agente das Sombras', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/iDeWAGnmloZ5Oz3bocDp4rSbUXd.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'A Era do Gelo: As Aventuras de Buck', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/eG0oOQVsniPAuecPzDD1B1gnYWy.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Exorcismo Sagrado', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jCDycDqFJ1dIv5iJfTfub2h4ZAB.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Sing 2', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg');
 
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 1, 5.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 2, 4.0);
